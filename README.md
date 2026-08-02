@@ -49,6 +49,40 @@ Enter your choice: 3
 How many Latte(s)? 2
 Added 2 x Latte to your cart. (₹700.00)
 
+## Output :
+
+Welcome to coffe$outh$ide
+
+*** COFFEE SHOP MENU ***
+1. Cortadito - ₹250.00
+2. Greek Frappé - ₹300.00
+3. Latte - ₹350.00
+4. Cappuccino - ₹350.00
+5. Frappé - ₹400.00
+6. View Cart
+0. Checkout & Exit
+********************
+Enter your choice: 3
+How many Latte(s)? 1
+Added 1 x Latte to your cart. (₹350.00)
+
+*** COFFEE SHOP MENU ***
+1. Cortadito - ₹250.00
+2. Greek Frappé - ₹300.00
+3. Latte - ₹350.00
+4. Cappuccino - ₹350.00
+5. Frappé - ₹400.00
+6. View Cart
+0. Checkout & Exit
+********************
+Enter your choice: 0
+
+*** RECEIPT ***
+Latte x1 - ₹350.00
+--------------------
+TOTAL: ₹350.00
+Thank you for visiting coffe$outh$ide!
+
 
 ## Things I want to improve later
 
