@@ -1,10 +1,10 @@
-# Coffee Shop Ordering System (Python) ☕
+# Coffee Shop Ordering System (Python) 
 
 This is a simple command-line coffee shop ordering system I built in Python to practice working with **dictionaries, loops, and functions**. You can browse a menu, add items to your cart, view your cart, and check out with a final receipt.
 
 I made this project as a beginner to practice handling user input and building a simple shopping cart flow.
 
-## What it does
+## What it does?
 
 - Shows a menu of coffee items with prices
 - Lets you pick an item and enter how many you want
@@ -12,7 +12,7 @@ I made this project as a beginner to practice handling user input and building a
 - Lets you view your cart at any time before checking out
 - Prints a final receipt with all items and the total price when you're done
 
-## What I learned / used
+## What I learned / used :
 
 - Python basics (functions, loops, if-else, input/output)
 - Dictionaries to store menu items and prices
@@ -20,7 +20,7 @@ I made this project as a beginner to practice handling user input and building a
 - Input validation (making sure quantity entered is a valid positive number)
 - Formatted string output (`f-strings`) for clean menu and receipt printing
 
-## How to run it
+## How to run it :
 
 1. Make sure Python 3 is installed
 2. Download/clone this project
@@ -35,7 +35,7 @@ python pjt2.py
 
 ## Example
 
-```
+
 *** COFFEE SHOP MENU ***
 1. Cortadito - ₹250.00
 2. Greek Frappé - ₹300.00
@@ -48,7 +48,7 @@ python pjt2.py
 Enter your choice: 3
 How many Latte(s)? 2
 Added 2 x Latte to your cart. (₹700.00)
-```
+
 
 ## Things I want to improve later
 
@@ -59,5 +59,5 @@ Added 2 x Latte to your cart. (₹700.00)
 
 ## Made by
 
-Abhishek Seishiro — this was one of my early Python practice projects 🙂
+Abhishek Seishiro — this was one of my early Python practice projects 
 [GitHub](https://github.com/Abhishek-Seishiro)
