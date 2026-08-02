@@ -21,7 +21,7 @@ def main():
     cart = []
     total = 0.0
 
-    print("Welcome to coffe$outh$ide")
+    print("Welcome to Southside Coffee")
 
     while True:
         print_menu()
@@ -37,7 +37,7 @@ def main():
                 print("\n--- Your Cart ---")
                 for order_item in cart:
                     print(f"{order_item['name']} x{order_item['qty']} - ₹{order_item['subtotal']:.2f}")
-                print(f" Your Total My Nigga : ₹{total:.2f}")
+                print(f" Your Total : ₹{total:.2f}")
 
         elif choice in menu:
             selected = menu[choice]
@@ -70,7 +70,7 @@ def main():
             print(f"{order_item['name']} x{order_item['qty']} - ₹{order_item['subtotal']:.2f}")
         print("--------------------")
         print(f"TOTAL: ₹{total:.2f}")
-        print("Thank you for visiting coffe$outh$ide. ")
+        print("Thank you for visiting Southside Coffee. ")
 
 
 if __name__ == "__main__":
